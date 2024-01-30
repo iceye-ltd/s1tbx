@@ -23,3 +23,4 @@ org.esa.s1tbx.io.strix.StriXProductReaderPlugIn
 org.esa.s1tbx.io.terrasarx.TerraSarXProductReaderPlugIn
 org.esa.s1tbx.io.TAXI.RATProductReaderPlugIn
 org.esa.s1tbx.io.uavsar.UAVSARReaderPlugIn
+org.esa.s1tbx.io.iceye.IceyeProductReaderPlugIn

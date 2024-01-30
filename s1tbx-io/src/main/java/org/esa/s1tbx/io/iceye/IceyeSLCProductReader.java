@@ -1,9 +1,9 @@
-package com.iceye.esa.snap.dataio;
+package org.esa.s1tbx.io.iceye;
 
 import com.bc.ceres.core.ProgressMonitor;
-import com.iceye.esa.snap.dataio.util.IceyeXConstants;
 import org.esa.s1tbx.commons.io.SARReader;
 import org.esa.s1tbx.commons.product.Missions;
+import org.esa.s1tbx.io.iceye.util.IceyeXConstants;
 import org.esa.s1tbx.io.netcdf.NetCDFReader;
 import org.esa.s1tbx.io.netcdf.NetCDFUtils;
 import org.esa.s1tbx.io.netcdf.NetcdfConstants;

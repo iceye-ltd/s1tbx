@@ -168,11 +168,6 @@
             <artifactId>s1tbx-rcp</artifactId>
             <version>${project.version}</version>
         </dependency>
-		<dependency>
-            <groupId>com.iceye.esa.snap</groupId>
-            <artifactId>iceye-slc-reader</artifactId>
-            <version>${iceye.version}</version>
-        </dependency>
 
         <dependency>
             <groupId>org.esa.snap</groupId>

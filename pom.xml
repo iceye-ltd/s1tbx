@@ -35,7 +35,6 @@
         <s1tbx.version>9.0.5-SNAPSHOT</s1tbx.version>
         <rstb.version>9.0.5-SNAPSHOT</rstb.version>
         <jlinda.version>9.0.5-SNAPSHOT</jlinda.version>
-        <iceye.version>9.0.5-SNAPSHOT</iceye.version>
         <maven.build.timestamp.format>yyyyMMdd</maven.build.timestamp.format>
         <buildDate>${maven.build.timestamp}</buildDate>
         
@@ -74,7 +73,6 @@
         <module>s1tbx-op-utilities-ui</module>
 		<module>s1tbx-rcp</module>
 		<module>s1tbx-test-stacks</module>
-		<module>snap_iceye_reader</module>
         
         <module>s1tbx-kit</module>
 	</modules>

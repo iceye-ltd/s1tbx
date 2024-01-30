@@ -1,8 +1,5 @@
-package com.iceye.esa.snap.dataio.util;
+package org.esa.s1tbx.io.iceye.util;
 
-/**
- * @author Ahmad Hamouda
- */
 public class IceyeXConstants {
     public static final String ICEYE_PLUGIN_DESCRIPTION = "ICEYE Products";
     public static final String ICEYE_FILE_PREFIX = "ICEYE";
